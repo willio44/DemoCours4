@@ -11,5 +11,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf093193fae41b942aa9234195f702a1, type: 3}
   m_Name: General
   m_EditorClassIdentifier: 
-  scriptableText: 
+  scriptableText: General Kenobi
   nextDialog: {fileID: 0}

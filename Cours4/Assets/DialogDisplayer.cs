@@ -7,7 +7,7 @@ public class DialogDisplayer : MonoBehaviour {
     private Text textComponent;
 
     // Use this for initialization
-    void Start() {
+    void Awake() {
         textComponent = gameObject.GetComponentInChildren<Text>();
 	}
 
