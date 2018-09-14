@@ -51,6 +51,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 62da3b876d96d684c870955562328f62, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dialogPrefab: {fileID: 1384017217750906, guid: 26b78ae5faec11743a94d7c7ce411905,
+  dialogPrefab: {fileID: 1161902334160732, guid: 26b78ae5faec11743a94d7c7ce411905,
     type: 2}
   mainCanvas: {fileID: 0}
